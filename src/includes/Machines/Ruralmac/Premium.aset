@@ -158,7 +158,7 @@ artisan_os_arch=AMD64
 
 [Device]
 device_logging=false
-id=999
+id=9999
 phidget1048_types=1, 1, 1, 1
 phidget1048_async=true, true, false, false
 phidget1048_changeTriggers=0.1, 0.1, 1, 1
