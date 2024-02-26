@@ -13,7 +13,7 @@ pyright==1.1.337
 ruff>=0.1.0
 pylint==3.0.2
 pre-commit>=3.3.3
-pytest==7.4.3
+pytest==8.0.2
 pytest-cov==4.1.0
 pytest-qt==4.2.0
 #pytest-xvfb==3.0.0
